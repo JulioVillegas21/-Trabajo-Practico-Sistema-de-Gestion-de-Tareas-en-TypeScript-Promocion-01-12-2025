@@ -1,8 +1,7 @@
 # Trabajo Práctico de Promoción — Sistema de Gestión de Tareas en TypeScript
 
 Este proyecto fue desarrollado como **Trabajo Práctico de Promoción** para la materia **Paradigmas de Programación**, representando una evolución significativa en el diseño y desarrollo de aplicaciones en TypeScript.
-
-📅 Fecha: 01/12/2025
+Fecha: 01/12/2025
 
 ## Descripción
 Aplicación de consola que permite gestionar tareas de forma completa, incluyendo creación, edición, eliminación, visualización, estadísticas y consultas avanzadas.
