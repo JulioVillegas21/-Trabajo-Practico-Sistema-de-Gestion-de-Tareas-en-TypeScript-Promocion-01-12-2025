@@ -1,0 +1,46 @@
+{
+  
+  "name": "promocion",
+  
+  "version": "1.0.0",
+  
+  "description": "",
+  
+  "main": "index.js",
+  
+  "keywords": [],
+  
+  "author": "",
+  
+  "license": "ISC",
+  
+  "devDependencies": {
+  
+    
+  "@types/prompt-sync": "^4.2.3",
+  
+    
+  "ts-node": "^10.9.2"
+  
+  },
+  
+  "scripts": {
+  
+    
+  "start": "ts-node src/main.ts"
+  
+  },
+  
+  "dependencies": {
+  
+    
+  "logicjs": "^1.0.0",
+  
+    
+  "prompt-sync": "^4.2.0",
+  
+    
+  "uuid": "^13.0.0"
+  
+  }
+}
